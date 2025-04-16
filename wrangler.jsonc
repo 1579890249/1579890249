@@ -1,0 +1,5 @@
+{
+  "name": "huggingface", // 必须与 CI 系统期望的名称一致
+  "compatibility_date": "2025-04-16", // 使用当前日期（格式 YYYY-MM-DD）
+  "main": "_worker.js" // 入口文件路径（根据实际情况调整）
+}
